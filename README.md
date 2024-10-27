@@ -9,10 +9,9 @@
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
 ## Hola a todooooos👋
--🔭 Actualmente estoy trabajando como desarolladora web
-<br>
--👯 Busco colaborar en proyectos relacionados con la creacion de paginas webs<b>
--💬 Pregúntame sobre Cómo programar en HTML, Java, JavaScript, C++<br>
+-🔭 Actualmente estoy trabajando como desarolladora web<br>
+-👯 Busco colaborar en proyectos relacionados con la creacion y diseño de paginas webs<b>
+-💬 Pregúntame sobre Cómo programar en HTML, Java, JavaScript, C++, y diseñadora de paginas webs<br>
 -📫 Cómo contactarme: lois14olarte@gmail.com<br>
 -📄 Conoce mis experiencias en hacer paginas para sitios web<br>
 
