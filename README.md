@@ -11,10 +11,11 @@
 ## Hola a todooooos👋
 -🔭 Actualmente estoy trabajando como desarolladora web
 <br>
--👯 Busco colaborar en proyectos relacionados con la creacion de paginas webs
--💬 Pregúntame sobre Cómo programar en HTML, Java, JavaScript, C++
--📫 Cómo contactarme: lois14olarte@gmail.com
--📄 Conoce mis experiencias en hacer paginas para sitios web
+-👯 Busco colaborar en proyectos relacionados con la creacion de paginas webs<b>
+
+-💬 Pregúntame sobre Cómo programar en HTML, Java, JavaScript, C++<br>
+-📫 Cómo contactarme: lois14olarte@gmail.com<br>
+-📄 Conoce mis experiencias en hacer paginas para sitios web<br>
 
 <br>
 
