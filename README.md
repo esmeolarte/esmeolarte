@@ -9,11 +9,11 @@
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
 ## Hola a todooooos👋
-🔭 Actualmente estoy trabajando como desarolladora web
-👯 Busco colaborar en proyectos relacionados con la creacion de paginas webs
-💬 Pregúntame sobre Cómo programar en HTML, Java, JavaScript, C++
-📫 Cómo contactarme: lois14olarte@gmail.com
-📄 Conoce mis experiencias en hacer paginas para sitios web
+-🔭 Actualmente estoy trabajando como desarolladora web
+-👯 Busco colaborar en proyectos relacionados con la creacion de paginas webs
+-💬 Pregúntame sobre Cómo programar en HTML, Java, JavaScript, C++
+-📫 Cómo contactarme: lois14olarte@gmail.com
+-📄 Conoce mis experiencias en hacer paginas para sitios web
 
 <br>
 
