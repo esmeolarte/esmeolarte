@@ -10,8 +10,8 @@
 
 ## Hola a todooooos👋
 -🔭 Actualmente estoy trabajando como desarolladora web<br>
--👯 Busco colaborar en proyectos relacionados con la creacion y diseño de paginas webs<b>
--💬 Pregúntame sobre Cómo programar en HTML, Java, JavaScript, C++, y diseñadora de paginas webs<br>
+-👯 Busco colaborar en proyectos relacionados con el diseño de paginas webs<br>
+-💬 Pregúntame sobre Cómo programar en HTML y diseñadora de paginas webs<br>
 -📫 Cómo contactarme: lois14olarte@gmail.com<br>
 -📄 Conoce mis experiencias en hacer paginas para sitios web<br>
 
