@@ -4,7 +4,8 @@
 <img src="https://imgur.com/GJV7eEw.png">
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDdGIMnb2wK6vS6cCyW4CHA?logo=youtube)
-https://img.shields.io/twitter/follow/esme18?logo=x&link=https%3A%2F%2Fx.com%2Fesme18399461
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/esme18?logo=x&link=https%3A%2F%2Fx.com%2Fesme18399461)
+
 
 ## Hola a todooooos👋
 -🔭 Actualmente estoy trabajando como desarolladora web<br>
