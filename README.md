@@ -3,8 +3,7 @@
 </div>
 <img src="https://imgur.com/GJV7eEw.png">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/@ortizolarteloisesmery8055)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/esmeolarte)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDdGIMnb2wK6vS6cCyW4CHA?logo=youtube)
 
 ## Hola a todooooos👋
 -🔭 Actualmente estoy trabajando como desarolladora web<br>
