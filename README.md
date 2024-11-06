@@ -17,3 +17,17 @@
 
 <br>
 
+## Video 1: Descargar vs code
+<DIV>
+<a href="https://www.youtube.com/watch?v=k2yd6mLMBuo">
+  <img src="https://img.youtube.com/vi/k2yd6mLMBuo/maxresdefault.jpg" width="500" height="281" alt="Video de YouTube">
+</a>
+</DIV>
+
+## Video 2: Hola nuestra primera pagina web
+
+<DIV>
+<a href="https://www.youtube.com/watch?v=y91BCpjtwcg">
+  <img src="https://img.youtube.com/vi/y91BCpjtwcg/maxresdefault.jpg" width="500" height="281" alt="Video de YouTube">
+</a>
+</DIV>
